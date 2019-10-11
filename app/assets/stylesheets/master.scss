@@ -6,13 +6,16 @@
   font-weight: 200;
   box-shadow: 0px 1px 3px #2a2a2a;
   background: image_url('5c4a2ecbe2834.jpeg');
-  color: white;
+
 }
 
 .navbar-inverse a.navbar-brand {
   font-family: "Helvetica Neue", Helvetica;
   font-weight: 100;
-  color: white;
+
+}
+.collapse navbar-collapse {
+font-color: white;
 }
 
 .hero {
@@ -23,6 +26,7 @@
   background-size: cover;
   height: 670px;
   box-shadow: 0px 3px 8px #2a2a2a;
+  
 
 }
 h1, h2, h3, h4, h5, h6, .navbar {
